@@ -57,6 +57,7 @@ SyntaxError : EOL while scanning string literal
 ```
 
 ​		能读懂这些错误信息很重要，因为你接下来可能会出现很多这种错误，我也是。让我们一行一行来看。
+
 ​		1.我们在Terminal运行ex1.py脚本。
 
 ​		2.Python告诉我们ex1.py文件的第三行出错了。
